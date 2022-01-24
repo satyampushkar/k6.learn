@@ -1,0 +1,11 @@
+https://blog.shanelee.name/2021/12/15/performance-testing-with-k6/
+
+https://www.youtube.com/watch?v=r-Jte8Y8zag
+
+https://medium.com/geekculture/using-k6-tests-docker-reports-53366512b5c5
+
+https://medium.com/swlh/beautiful-load-testing-with-k6-and-docker-compose-4454edb3a2e3
+
+
+
+cat sample_test.js | docker run -i loadimpact/k6 run -
